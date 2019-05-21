@@ -30,7 +30,7 @@
 
 - [Master Thesis: Search Engine & Mental Health Trends](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C1_SMARTDriveFailures)
 - [EHR Medical Ontology](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C2_AutoInsurance)
-- [DIJKSTRA'S SHORTEST PATH ALGORITHM FOR PROTEIN FOLDING]
+- [Dijkstra's Shortest Path Algorithm in Protein Folding](http://example.com/)
 
 ---
 
