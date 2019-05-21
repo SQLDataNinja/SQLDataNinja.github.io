@@ -28,9 +28,10 @@
 
 ### Research
 
-- [Master Thesis: Search Engine & Mental Health Trends](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C1_SMARTDriveFailures)
-- [EHR Medical Ontology](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C2_AutoInsurance)
-- [Dijkstra's Shortest Path Algorithm in Protein Folding](http://example.com/)
+- [Graduate Thesis: Search Engine & Mental Health Trends](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C1_SMARTDriveFailures)
+- [Undergraduate Research Fellowship: Dijkstra's Shortest Path Algorithm in Protein Folding](http://example.com/)
+- [Undergraduate Directed Study: EHR Medical Ontology](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C2_AutoInsurance)
+
 
 ---
 
