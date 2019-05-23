@@ -4,7 +4,7 @@
 
 ### Data Science
 
-- [Project Dplyr](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Projects_R/Project_Dplyr)
+- [Project Dplyr](https://github.com/SQLDataNinja/psu-dplyr-project)
 
 <!-- [Project 1 Title](/sample_page) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
@@ -21,16 +21,16 @@
 
 ### Competitive Programming
 
-- [Code Challenge 1: SMART Drive Failures](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C1_SMARTDriveFailures)
-- [Code Challenge 2: Auto Insurance Claims Analysis](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C2_AutoInsurance)
+- [Code Challenge 1: SMART Drive Failures](https://github.com/SQLDataNinja/competitive-programming/tree/master/C1_SMARTDriveFailures)
+- [Code Challenge 2: Auto Insurance Claims Analysis](https://github.com/SQLDataNinja/competitive-programming/tree/master/C2_AutoInsurance)
 
 ---
 
 ### Research
 
-- [Graduate Thesis: Search Engine & Mental Health Trends](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C1_SMARTDriveFailures)
+- [Graduate Thesis: Search Engine & Mental Health Trends](http://example.com/)
 - [Undergraduate Research Fellowship: Dijkstra's Shortest Path Algorithm in Protein Folding](http://example.com/)
-- [Undergraduate Directed Study: EHR Medical Ontology](https://github.com/SQLDataNinja/Portfolio_DataScience/tree/master/Challenges_Python/C2_AutoInsurance)
+- [Undergraduate Directed Study: EHR Medical Ontology](http://example.com/)
 
 
 ---
