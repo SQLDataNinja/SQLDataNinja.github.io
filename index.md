@@ -5,6 +5,7 @@
 ### Data Science
 
 - [Project Dplyr](https://github.com/SQLDataNinja/psu-dplyr-project)
+- [MultiClass Prediction: Baseball Position](https://github.com/SQLDataNinja/baseball-pos-multi-class-predict)
 
 <!-- [Project 1 Title](/sample_page) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
