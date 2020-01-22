@@ -2,8 +2,10 @@
 
 ---
 ### Azure Data Solution Samples
+
 - [Cloud Data Warehouse](https://github.com/SQLDataNinja/azure-data-samples/tree/master/cloud-data-warehouse)
 
+---
 ### My Data Science Journey
 
 - [Project Dplyr](https://github.com/SQLDataNinja/data-science-journey/tree/master/psu-dplyr-project)
@@ -21,14 +23,12 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 --- 
-
 ### Competitive Programming
 
 - [Code Challenge 1: SMART Drive Failures](https://github.com/SQLDataNinja/competitive-programming/tree/master/C1_SMARTDriveFailures)
 - [Code Challenge 2: Auto Insurance Claims Analysis](https://github.com/SQLDataNinja/competitive-programming/tree/master/C2_AutoInsurance)
 
 ---
-
 ### Research
 
 - [Graduate Thesis: Search Engine & Mental Health Trends](http://example.com/)
