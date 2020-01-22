@@ -1,11 +1,13 @@
 ## Portfolio
 
 ---
+### Azure Data Solution Samples
+- [Cloud Data Warehouse](https://github.com/SQLDataNinja/azure-data-samples/tree/master/cloud-data-warehouse)
 
-### Data Science
+### My Data Science Journey
 
-- [Project Dplyr](https://github.com/SQLDataNinja/psu-dplyr-project)
-- [MultiClass Prediction: Baseball Position](https://github.com/SQLDataNinja/baseball-pos-multi-class-predict)
+- [Project Dplyr](https://github.com/SQLDataNinja/data-science-journey/tree/master/psu-dplyr-project)
+- [MultiClass Prediction: Baseball Position](https://github.com/SQLDataNinja/data-science-journey/tree/master/baseball-pos-multi-class-predict)
 
 <!-- [Project 1 Title](/sample_page) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
