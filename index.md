@@ -11,17 +11,6 @@
 - [Project Dplyr](https://github.com/SQLDataNinja/data-science-journey/tree/master/psu-dplyr-project)
 - [MultiClass Prediction: Baseball Position](https://github.com/SQLDataNinja/data-science-journey/tree/master/baseball-pos-multi-class-predict)
 
-<!-- [Project 1 Title](/sample_page) -->
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
-<!-- --- -->
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
-<!-- --- -->
-<!-- [Project 3 Title](https://example.com/) -->
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
 --- 
 ### Competitive Programming
 
