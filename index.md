@@ -19,7 +19,7 @@
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 <!-- --- -->
-<!-- [Project 3 Title](http://example.com/) -->
+<!-- [Project 3 Title](https://example.com/) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 --- 
@@ -31,9 +31,9 @@
 ---
 ### Research
 
-- [Graduate Thesis: Search Engine & Mental Health Trends](http://example.com/)
-- [Undergraduate Research Fellowship: Dijkstra's Shortest Path Algorithm in Protein Folding](http://example.com/)
-- [Undergraduate Directed Study: EHR Medical Ontology](http://example.com/)
+- [Graduate Thesis: Search Engine & Mental Health Trends](https://example.com/)
+- [Undergraduate Research Fellowship: Dijkstra's Shortest Path Algorithm in Protein Folding](https://example.com/)
+- [Undergraduate Directed Study: EHR Medical Ontology](https://example.com/)
 
 
 ---
